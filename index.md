@@ -32,8 +32,8 @@ title: David Cannatella Website
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h2>
-<a id="people-in-the-lab" class="anchor" href="#people-in-the-lab" aria-hidden="true"><span class="octicon octicon-link"></span></a>People in the Lab</h2>
+        
+## People in the Lab
 
 ![Test Page](TestPage.md)
 
