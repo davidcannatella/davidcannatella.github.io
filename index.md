@@ -21,7 +21,7 @@
           <a id="forkme_banner" href="https://github.com/davidcannatella">View on GitHub</a>
 
           <h1 id="project_title">davidcannatella.GitHub.io</h1>
-          <h2 id="project_tagline">Cannatella Lab--BRANCH</h2>
+          <h2 id="project_tagline">Cannatella Lab</h2>
 
         </header>
     </div>
