@@ -29,21 +29,23 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+      
+      
       </section>
     </div>
         
 ## People in the Lab 
 [Test Page](TestPage.md)
 
-<p>David C Cannatella</p>
+David C Cannatella
 
-<p>Chris Torres</p>
+Chris Torres
 
-<p>Becca Tarvin</p>
+Becca Tarvin
 
-<p>Taylor Gullett</p>
+Taylor Gullett
 
-<p>Mariana Vasconcellos</p>
+Mariana Vasconcellos
 
 
     <!-- FOOTER  -->
