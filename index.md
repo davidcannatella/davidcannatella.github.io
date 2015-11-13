@@ -30,7 +30,7 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         
-## People in the Lab
+## People in the Lab 
 
 [Test Page](TestPage.md)
 
