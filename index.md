@@ -29,7 +29,8 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        
+      </section>
+    </div>
         
 ## People in the Lab 
 [Test Page](TestPage.md)
@@ -43,8 +44,7 @@
 <p>Taylor Gullett</p>
 
 <p>Mariana Vasconcellos</p>
-      </section>
-    </div>
+
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
