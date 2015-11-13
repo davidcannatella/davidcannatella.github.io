@@ -32,7 +32,7 @@
         
 ## People in the Lab
 
-  ![Test Page](TestPage.md)
+[Test Page](TestPage.md)
 
 <p>David Cannatella</p>
 
