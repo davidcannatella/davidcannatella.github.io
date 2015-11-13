@@ -31,10 +31,9 @@
       <section id="main_content" class="inner">
         
 ## People in the Lab 
-
 [Test Page](TestPage.md)
 
-<p>David Cannatella</p>
+<p>David C Cannatella</p>
 
 <p>Chris Torres</p>
 
