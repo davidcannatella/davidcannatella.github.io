@@ -1,39 +1,4 @@
----
----
-
-<html>
-
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="davidcannatella.GitHub.io : Cannatella Lab">
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>davidcannatella.GitHub.io</title>
-  </head>
-
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/davidcannatella">View on GitHub</a>
-
-          <h1 id="project_title">davidcannatella.GitHub.io</h1>
-          <h2 id="project_tagline">Cannatella Lab</h2>
-
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-      
-      
-      </section>
-    </div>
-        
+  
 ## People in the Lab 
 [Test Page](TestPage.md)
 
@@ -46,16 +11,3 @@ Becca Tarvin
 Taylor Gullett
 
 Mariana Vasconcellos
-
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
-</html>
