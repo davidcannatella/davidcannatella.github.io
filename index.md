@@ -1,8 +1,6 @@
-  
-## People in the Lab 
-[Test Page](TestPage.md)
+##People in the Lab
 
-David C Cannatella
+David Cannatella
 
 Chris Torres
 
